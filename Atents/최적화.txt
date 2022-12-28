@@ -1,0 +1,9 @@
+-Mesh
+
+Draw Call : Scene에 있는 Vertex들을 그리기 위해 cpu,가 gpu에 보내는 요청
+   
+
+Draw Call 줄이는 방법
+-머터리얼 개수 줄이기
+-텍스처 개수 줄이기 
+-텍스처 크기 줄이기(Draw Call이 아니라 연산속도)

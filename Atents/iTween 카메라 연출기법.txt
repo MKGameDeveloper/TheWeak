@@ -1,0 +1,5 @@
+iTween 카메라 연출법
+
+itween asset 다운로드, itween editor 다운로드(http://www.pixelplacement.com/2010/12/03/visual-editor-for-itween-motion-paths/)
+
+itween path 를 통해 라인을 설정하고 그 라인으로 오브젝트를 이동하게 하는 함수
